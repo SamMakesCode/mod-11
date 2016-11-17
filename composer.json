@@ -1,0 +1,16 @@
+{
+    "name": "samlittler/mod-11",
+    "description": "A library for calculating mod 11 checksums",
+    "type": "library",
+    "authors": [
+        {
+            "name": "samlittler",
+            "email": "sam@solumstone.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mod11\\": "src/"
+        }
+    }
+}
