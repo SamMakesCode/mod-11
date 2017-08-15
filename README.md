@@ -26,7 +26,7 @@ Testing on 4 working strings from different sources. It works :)
 
 # Changelist
 
-1.0.1
+1.1.0
 - Removed dependency on phpunit. Now only a dev dependency
 - Added a .gitignore
 - Made PSR-2 compliant
