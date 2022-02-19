@@ -26,6 +26,9 @@ Testing on 4 working strings from different sources. It works :)
 
 # Changelist
 
+1.1.1
+- Dependency on PHP 7.1 specified. This always existed, but now it's explicit.
+
 1.1.0
 - Removed dependency on phpunit. Now only a dev dependency
 - Added a .gitignore
